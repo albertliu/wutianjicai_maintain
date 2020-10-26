@@ -1,0 +1,65 @@
+浦东新服务器：IP:103.24.119.71   网关:103.24.119.65  掩码:255.255.255.192
+	administrator/wtjc@2017!
+主服务器：150.242.239.239:13389    
+	administrator/wtjc@2015jcbbak    dianshangjishu_bak/hangmu@123   sqldamin_bak/wtjc@123  Albert/Sh930528
+	wutianuser/wTjc@sh2016
+	--administrator/wtjc@2015jcb    dianshangjishu/hangmu@123   sqldamin/wtjc@123
+后台系统：admin.uheoo.com   admin/2017wtjc   zghadmin/jbc2015   xiaochuanliu/sh123456
+前台系统：正广和 zgh.uheoo.com
+
+主数据库：150.242.239.239,14333   CRM_UHEOO   
+	管理员：    CRMOWUser/N9YAhQUETE05M
+	只读账号：CRMRUser/HAXeresTx7b2V
+	读写账号：CRMRWUser/0bnq7L7tVsVsN
+数据表：
+	系统用户：Au_System_User
+
+正广和生产线本地数据库：SQLSERVER 2008
+	Catalog=zghc;User=sa;Password=123qweASD
+
+测试服务器：--119.254.67.48:13389	administrator/wtjc@2015jcb
+测试服务器：120.76.55.126	administrator/hangmu2016wtjC
+
+测试数据库：--119.254.67.48,10433   TEST_CRM_UHEOO   CRMOWUser/N9YAhQUETE05M
+
+测试后台：ceshi.admin.uheoo.com
+测试前台：空 ceshi.uheoo.com  男装演示 fzys.uheoo.com
+
+FTP: albert/930528
+SVN: 150.242.239.239/svn	liuxiaochuan/930528   woyu/12345678
+短信管理：https://221.179.180.153:9998/GuoduPlatform
+	   普通短信：wutjc/wutjc123  绑定了两台服务器的IP
+	   营销短信：wtjcyx/1217wutjc  只能用指定IP登录103.24.119.71
+	   联系人电话：18612672710  公司客服：010-62190822 北京国都互联科技有限公司
+	API: General.Common.Utilities.SMS.cs
+	阿里云短信平台API：https://help.aliyun.com/document_detail/59836.html?spm=a2c4g.11186623.6.689.51fe31441Afarl
+域名管理：https://account.aliyun.com/login/login.htm
+	   wutianjicai@163.com/wutianjicai1512  支付密码：wutianjicai@1512
+快递接口：https://www.showapi.com/user/my?tag=1  
+	   zyz963/wtjc2015
+
+正广和总厂：teamviewer 234262307/123456         s074/0808
+	          192.168.2.32    DNS 192.168.2.5
+正广和二分厂：teamviewer 226275902/123456     sjm/654321
+	          192.168.2.33    DNS 192.168.2.5
+正广和湖州厂：teamviewer 557551368/123456    cq1/123
+	          192.168.1.206    DNS 192.168.1.100
+正广和安吉厂：teamviewer 630780737/123456     aj1/123
+	          192.168.1.2
+苏州阳山厂：向日葵  926 555 287/1234    太仓厂：478708807/1234   长兴厂：923240072/5802
+
+
+
+
+百度统计   tongji.baidu.com   wtjicai/wtjicai123
+
+上海托管机房：中山南路508号3楼   提前两天与宽惠公司预约，报身份证
+	销售：宽惠公司 客服QQ 4006518170  陈锦涛18221000872
+北京托管机房：北京光环德信大厦   客服QQ 1127486859
+
+金艳梅的苹果账号：jym2017@163.com   密码：Jinyanmei@2017 (第一个字母大写)
+	DUNS编码在此对应的邮箱里(jym2017@163.com   密码：jinyanmei@2017)
+
+公司邮箱管理员：uhejf.com/uhejf@123
+
+微信账号管理员：jiangtianci@uhejf.com/wutianjicai1009
